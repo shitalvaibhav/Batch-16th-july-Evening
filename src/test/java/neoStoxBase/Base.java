@@ -15,6 +15,7 @@ public class Base {
 	protected WebDriver driver;
 	public void launchBrowser() throws IOException, InterruptedException
 	{
+	
 		System.setProperty("webdriver.chrome.driver", "F:\\Chrome\\chromedriver.exe");
 		
 		 driver=new ChromeDriver();
