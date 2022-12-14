@@ -25,6 +25,11 @@ public class Base {
 		 // driver.get(UtilityNew.readDataFromPropertyFile("url"));
 		  driver.get("https://neostox.com/");
 		  
+		  
+		  
+		  
+		  
+		  
 		  Reporter.log("launching browser", true);
 		  Thread.sleep(1000);
 
