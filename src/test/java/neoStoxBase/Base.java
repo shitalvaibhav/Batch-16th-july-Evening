@@ -30,6 +30,8 @@ public class Base {
 		  
 		  
 		  
+		  
+		  
 		  Reporter.log("launching browser", true);
 		  Thread.sleep(1000);
 
